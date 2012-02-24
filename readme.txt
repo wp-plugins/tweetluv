@@ -69,6 +69,12 @@ It used to be. You used to be able to input an e-mail address and find that pers
 
 Just send an e-mail to charlie@monotask.com, and I'll get back to you right away. Tweetluv is one of my top priorities right now, so I really want to hear from people getting it set up on their blogs.
 
+= What does the sign-up form look like? =
+
+Here you go:
+
+<object data="http://tweetluv.com/remote_signup.html" style="height:20px;position:relative;top:2px;width:164px;"></object>
+
 == Changelog ==
 
 = 0.1 =
