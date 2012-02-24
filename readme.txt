@@ -53,7 +53,9 @@ It's totally free.
 
 = Can I get spam from this? =
 
-Absolutely not. We don't share your e-mail address with anybody. Your e-mail address is encrypted in our system, and the only way someone can find out your Twitter username is if they already know your e-mail address.
+Absolutely not. We don't share your e-mail address with anybody, and your e-mail address (and your readers' e-mail addresses) are encrypted. The only way someone can find out your Twitter username is if they already know your e-mail address.
+
+(For the developers out there, it's a key-value store, with the hashed e-mail as the key, the Twitter username as the value. The e-mail address isn't accessible.)
 
 = Is Tweetluv going to post something on my Twitter stream? =
 
