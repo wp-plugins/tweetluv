@@ -63,6 +63,10 @@ Absolutely not. We have no way of posting to your Twitter stream. And even if we
 
 It used to be. You used to be able to input an e-mail address and find that person's Twitter account. They discontinued it, though. We felt like it was a valuable service, though, so we built this.
 
+= I have a question that isn't answered here. How can I contact you? =
+
+Just send an e-mail to charlie@monotask.com, and I'll get back to you right away. Tweetluv is one of my top priorities right now, so I really want to hear from people getting it set up on their blogs.
+
 == Changelog ==
 
 = 0.1 =
