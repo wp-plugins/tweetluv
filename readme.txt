@@ -21,6 +21,12 @@ It's like Gravatar meets CommentLuv meets Twitter.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. That's it!
 
+== Screenshots ==
+
+1. The default form is really simple.
+2. Your commenter simply enters their Twitter username ...
+3. and their e-mail address. That's it. From then on, their info will be pulled automatically, and they won't need to do anything. It's a set-it-and-forget-it kind of thing.
+
 == Frequently Asked Questions ==
 
 = Does this affect my blog's database? =
