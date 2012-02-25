@@ -15,6 +15,8 @@ It's totally free, there's no account to manage, and it takes around 6 seconds t
 
 It's like Gravatar meets CommentLuv meets Twitter.
 
+You can see what the form looks like, here: <object data="http://tweetluv.com/remote_signup.html" style="height:20px;position:relative;top:2px;width:164px;"></object>
+
 == Installation ==
 
 1. Upload 'tweetluv.php' to the '/wp-content/plugins/' directory
